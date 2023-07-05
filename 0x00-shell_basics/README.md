@@ -1,1 +1,1 @@
-int this script we try to list the current of our directory
+int this script we try to change the working directory to the user's home directory
