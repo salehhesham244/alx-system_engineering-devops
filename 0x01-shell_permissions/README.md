@@ -1,1 +1,1 @@
-in this script we try to switch the file user from the current one to betty
+in this script we will try to change the current user to betty
