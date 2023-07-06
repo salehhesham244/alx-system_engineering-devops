@@ -1,1 +1,1 @@
-in this script we try to make adirectory in side another one
+we now move all uper case from this directory to another one that we chose
