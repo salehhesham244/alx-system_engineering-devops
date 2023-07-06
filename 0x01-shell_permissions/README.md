@@ -1,1 +1,1 @@
-in this script we will try to change the current user to betty
+in this script we try to change the owner of the file and grp
