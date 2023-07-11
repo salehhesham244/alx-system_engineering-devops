@@ -1,1 +1,1 @@
-here we go to write another script
+in this script we star
